@@ -30,7 +30,7 @@ def draw_plot():
     ax.legend()
 
     # Save image and return fig
-    fig.savefig("sea_level_plot.png")
+    fig.savefig(".\FCC_Assignments\sea_level_plot.png")
     return fig
 
 draw_plot()
