@@ -1,5 +1,5 @@
 import demographic_data_analyzer
-from test_module import *
+from Data_Handling.FCC_Assignments.test_module import *
 
 # Test your function by calling it here
 if __name__ == "__main__":
